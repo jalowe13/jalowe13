@@ -84,8 +84,5 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/jalowe13/jalowe13/output/snake.svg" alt="Snake animation" />
 
 ###
